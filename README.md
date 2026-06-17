@@ -1,7 +1,7 @@
 # AI 트레이딩 봇 — 엔지니어링 노트
 
 [라이브 대시보드](http://3.39.23.98:8000)
-<img width="900" src="https://github.com/user-attachments/assets/516de0b1-9a78-45d6-bdfd-70efd4e556e2" />
+<img width="2552" height="1284" alt="Image" src="https://github.com/user-attachments/assets/04ad568d-2df5-41c1-b74f-2b71ba1fd679" />
 
 개인용 암호화폐/주식 자동매매 시스템입니다. **LLM이 직접 매매를 결정하는 구조로 출발했지만**, 응답 지연·비용·환각으로 실시간 매매 판단에는 부적합하다고 판단해 그 루프를 제거했고, **현재는 규칙·기술 지표 기반으로 동작**합니다. (LLM 변천은 [진화 기록](#진화-기록) 참고)
 
